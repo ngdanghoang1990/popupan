@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://nguyendanghoangland.blogspot.com/';
+	var url_popup = 'https://nguyendanghoangland.blogspot.com';
 
       //<![CDATA[
-	  // var url_ppp = 'https://nguyendanghoangland.blogspot.com/';
+	  // var url_ppp = 'http://bit.ly/1KmPNYe';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
